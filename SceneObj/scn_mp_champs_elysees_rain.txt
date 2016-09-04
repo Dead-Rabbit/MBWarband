@@ -1,0 +1,4 @@
+scn_mp_champs_elysees_rain mp_champs_elysees_rain 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000003c0000000000aa6a40004406900002920001e4f81
+0
+0
+outer_terrain_snow 

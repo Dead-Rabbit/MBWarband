@@ -1,0 +1,4 @@
+scn_mp_avignon_morning mp_avignon_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000015241ca0f000795e0000041ef00005ae800003c55
+0
+0
+outer_terrain_desert 
