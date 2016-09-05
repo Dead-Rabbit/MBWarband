@@ -16,7 +16,7 @@ fake_reflections = 1
 
 show_framerate = 0
 
-use_ondemand_textures_ = 1
+use_ondemand_textures = 1
 
 use_ondemand_textures_mt = 1
 
@@ -36,9 +36,9 @@ force_single_threading = 0
 
 debug_mode = 0
 
-display_width = 1280
+display_width = 1024
 
-display_height = 800
+display_height = 768
 
 display_bits = 32
 
